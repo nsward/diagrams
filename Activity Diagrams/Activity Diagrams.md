@@ -18,7 +18,10 @@ Activity Diagrams
 13.	Provide feedback
 14.	Setup password reset options
 
-The _view_ links should provide a visual, read-only version to view in a browser.
+The _view_ links should provide a visual, read-only version to view in a browser. The format is:
+```
+https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2F<URL-encoded-filename-of-diagram>
+```
 
 
 ## What is an Activity Diagram?
