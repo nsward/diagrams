@@ -33,12 +33,11 @@ To start a new activity diagram file, use the provided [template](_Template acti
 These are the rules we apply to these diagrams:
 
 An Activity Diagram…
-* includes Actions taken by all stakeholders (users AND systems)
-* includes decisions made by all stakeholders (users AND systems)
+* includes Actions taken by *all* stakeholders (PA/AW/HO and systems)
+* includes Decisions made by *all* stakeholders (PA/AW/HO and systems)
 * includes all possible paths
 * has (at least) 1 path defined as the Optimal/MVP/Happy-path
-* has labels IN or OUT of scope for DIF pilots on all paths
-* has only 1 start-point and 1 end-point (regardless of end-state)
+* has labels OUT of scope for DIF pilots on all paths
 
 For more generic information see: <https://en.wikipedia.org/wiki/Activity_diagram>
 
