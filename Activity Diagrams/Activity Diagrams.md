@@ -29,6 +29,8 @@ https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%
 To start a new activity diagram file, use the provided [template](_Template activity.drawio):
 <https://www.draw.io/#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2F_Template%2520activity.drawio>
 
+Some specific tips for working with them in Draw.io: <https://about.draw.io/create-uml-activity-diagrams-in-draw-io/>
+
 
 ## What is an Activity Diagram?
 These are the rules we apply to these diagrams:
