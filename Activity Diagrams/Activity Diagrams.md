@@ -18,6 +18,7 @@ Activity Diagrams
 13.	Provide feedback
 14.	Setup password reset options
 15. Send a notification to person affected
+16. Backup Identity wallet
 
 The _view_ links should provide a visual, read-only version to view in a browser. The format is:
 ```
