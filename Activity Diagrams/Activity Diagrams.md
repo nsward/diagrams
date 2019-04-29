@@ -37,9 +37,9 @@ These are the rules we apply to these diagrams:
 An Activity Diagram…
 * includes Actions taken by *all* stakeholders (PA/AW/HO and systems)
 * includes Decisions made by *all* stakeholders (PA/AW/HO and systems)
-* includes all possible paths
+* includes all possible paths (Including far-future ideas or to-be-discussed features)
 * has (at least) 1 path defined as the Optimal/MVP/Happy-path
-* has labels OUT of scope for DIF pilots on all paths
+* has indicators/labels for "OUT of scope for DIF" on all relevant paths
 
 For more generic information see: <https://en.wikipedia.org/wiki/Activity_diagram>
 
