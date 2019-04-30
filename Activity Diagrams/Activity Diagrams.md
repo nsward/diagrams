@@ -20,6 +20,7 @@ Activity Diagrams
 15. Send a notification to person affected
 16. Backup Identity wallet
 17. Lookup matching aid programs
+18. Design an aid program
 
 The _view_ links should provide a visual, read-only version to view in a browser. The format is:
 ```
