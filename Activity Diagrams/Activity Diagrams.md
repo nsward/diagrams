@@ -5,7 +5,8 @@ Activity Diagrams
 
 1.	Create a wallet [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FCreate%2520a%2520wallet%2520activity.drawio)]
 2.	Get a credential [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FGet%2520a%2520credential%2520activity.drawio)]
-3.	Publish a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FPublish%2520a%2520program%2520activity.drawio)]
+3. Design an aid program	
+4. Publish a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FPublish%2520a%2520program%2520activity.drawio)]
 4.	Enroll in a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FEnroll%2520in%2520a%2520program%2520activity.drawio)]
 5.	Create digital funds wallet
 6.	Distribute digital funds
@@ -20,7 +21,7 @@ Activity Diagrams
 15. Send a notification to person affected
 16. Backup Identity wallet
 17. Lookup matching aid programs
-18. Design an aid program
+
 
 The _view_ links should provide a visual, read-only version to view in a browser. The format is:
 ```
