@@ -3,24 +3,24 @@ Activity Diagrams
 
 ## Activities in the 121-system:
 
-1.	Create a wallet [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FCreate%2520a%2520wallet%2520activity.drawio)]
-2.	Get a credential [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FGet%2520a%2520credential%2520activity.drawio)]
-3. Design an aid program	
-4. Publish a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FPublish%2520a%2520program%2520activity.drawio)]
-4.	Enroll in a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FEnroll%2520in%2520a%2520program%2520activity.drawio)]
-5.	Create digital funds wallet
-6.	Distribute digital funds
-7.	Use digital funds
-8.	Run Allocation Algorithm
-9.	Run Inclusion Algorithm
-10.	Donate money [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FDonate%2520money%2520activity.drawio)]
-11.	Track donation
-12.	Request help
-13.	Provide feedback
-14.	Setup password reset options
-15. Send a notification to person affected
-16. Backup Identity wallet
-17. Lookup matching aid programs
+*	Create a wallet [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FCreate%2520a%2520wallet%2520activity.drawio)]
+*	Setup password reset options
+*	Backup Identity wallet
+*	Get a credential [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FGet%2520a%2520credential%2520activity.drawio)]
+*	Send a notification to person affected
+*	Design an aid program
+*	Publish a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FPublish%2520a%2520program%2520activity.drawio)]
+*	Enroll in a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FEnroll%2520in%2520a%2520program%2520activity.drawio)]
+*	Lookup matching aid programs
+*	Run Inclusion Algorithm
+*	Create digital funds wallet
+*	Distribute digital funds
+*	Run Allocation Algorithm
+*	Use digital funds
+*	Donate money [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FDonate%2520money%2520activity.drawio)]
+*	Track donation
+*	Request help
+*	Provide feedback
 
 
 The _view_ links should provide a visual, read-only version to view in a browser. The format is:
