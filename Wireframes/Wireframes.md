@@ -4,7 +4,7 @@ Wireframes
 ## Interfaces of the 121-platform:
 - PA-App - Mobile app for People Affected
 - AW-App - Mobile app for Aid-Workers
-- [HO-Portal](./HO-Portal--Wireframes--v1.xd) - Web app for Humanitarian Organisations
+- [HO-Portal](./HO-Portal--Wireframes.xd) - Web app for Humanitarian Organisations
 
 
 ## What is a wireframe?
