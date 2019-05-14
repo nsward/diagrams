@@ -1,7 +1,7 @@
 diagrams - design documents for the 121-platform
 ================================================
 
-This repository contains different kinds of diagrams to document the ongoing design- and development-proces of the 121-platform.
+This repository contains different kinds of diagrams to document the ongoing design- and development-proces of the 121-platform. -- Learn more about the platform: https://www.121.global/
 
 ## Contents
 

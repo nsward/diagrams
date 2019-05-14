@@ -1,7 +1,7 @@
 Activity Diagrams
 =================
 
-## Activities in the 121-platform:
+## Activities on the 121-platform:
 
 *	Create credential-wallet [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FCreate%2520credential-wallet%2520activity.drawio)]
 *	Setup password reset options
