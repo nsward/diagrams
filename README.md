@@ -14,3 +14,9 @@ This repository contains different kinds of diagrams to document the ongoing des
 - [Wireframes](./Wireframes/Wireframes.md)  
   Designs for the different interfaces.
 
+
+- - - - - - -
+
+### About 121
+
+121 is working towards an open source platform that allows safe, fast and fair humanitarian cash based aid programs using blockchain. -- Learn more about the platform: https://www.121.global/
