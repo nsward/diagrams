@@ -22,4 +22,6 @@ There are a lot of possible definitions for 'wireframe'; But we use the followin
 We use [Adobe XD](https://www.adobe.com/products/xd.html) to create the wireframes.
 The application is free and might require an (also free) Adobe-account.
 
+The files require Adobe XD **v19** from **2019-05-13** or later.
+
 The files contain a sub-set of elements from the [Material Design-system](https://material.io/) to easily copy and paste from.
