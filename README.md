@@ -1,7 +1,7 @@
 diagrams - design documents for the 121-platform
 ================================================
 
-This repository contains different kinds of diagrams to document the ongoing design- and development-proces of the 121-platform. -- Learn more about the platform: https://www.121.global/
+This repository contains different kinds of diagrams to document the ongoing design- and development-process of the 121-platform. -- Learn more about the platform: <https://www.121.global/>
 
 ## Contents
 
@@ -19,4 +19,4 @@ This repository contains different kinds of diagrams to document the ongoing des
 
 ### About 121
 
-121 is working towards an open source platform that allows safe, fast and fair humanitarian cash based aid programs using blockchain. -- Learn more about the platform: https://www.121.global/
+121 is working towards an open source platform that allows safe, fast and fair humanitarian cash based aid programs using blockchain. -- Learn more about the platform: <https://www.121.global/>
