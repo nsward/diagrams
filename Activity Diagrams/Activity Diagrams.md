@@ -9,6 +9,7 @@ Activity Diagrams
 *	Get a credential [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FGet%2520a%2520credential%2520activity.drawio)]
 *	Send a notification to person affected
 *	Design an aid program
+* Configure distribution settings
 *	Publish a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FPublish%2520a%2520program%2520activity.drawio)]
 *	Enroll in a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FEnroll%2520in%2520a%2520program%2520activity.drawio)]
 *	Lookup matching aid programs
