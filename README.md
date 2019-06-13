@@ -5,7 +5,7 @@ This repository contains different kinds of diagrams to document the ongoing des
 
 ## Contents
 
-- [Activity Diagrams](./Activity%20Diagrams/README.md)  
+- [Activity Diagrams](./Activity%20Diagrams/#readme)  
   Used to document what the different *users/stakeholders* have to do and what actions need to be performed by *systems* to achieve specific goals.
 
 - [Component Diagram](./Component_Diagram.xml) [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FComponent_Diagram.xml)]  
