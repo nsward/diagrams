@@ -11,7 +11,7 @@ This repository contains different kinds of diagrams to document the ongoing des
 - [Component Diagram](./Component_Diagram.xml) [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FComponent_Diagram.xml)]  
   An overview of all components on the 121-platform.
 
-- [Wireframes](./Wireframes/Wireframes.md)  
+- [Wireframes](./Wireframes/#readme)  
   Designs for the different interfaces.
 
 
