@@ -8,13 +8,15 @@ Activity Diagrams
 * Backup credential-wallet
 * Get a credential [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FGet%2520a%2520credential%2520activity.drawio)]
 * Send a notification to person affected
+
 * Login to HO portal
-* Design an aid program
-* Configure distribution settings
-* Configure post distribution monitoring
-* Configure Source of funding
-* Configure Complaint management ?
+* Design an aid program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FDesign%2520an%2520aid%2520program%2520activity.drawio)]
+  * Configure distribution settings
+  * Configure post distribution monitoring
+  * Configure Source of funding
+  * Configure Complaint management ?
 * Publish a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FPublish%2520a%2520program%2520activity.drawio)]
+
 * Enroll in a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FEnroll%2520in%2520a%2520program%2520activity.drawio)]
 * Lookup matching aid programs
 * Run Inclusion Algorithm
