@@ -11,7 +11,7 @@ Activity Diagrams
 * Log-in to HO-Portal [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FLog-in%2520to%2520HO-Portal%2520activity.drawio)]
 * Design an aid program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FDesign%2520an%2520aid%2520program%2520activity.drawio)]
   * Configure distribution settings
-  * Configure post distribution monitoring
+  * Configure questionnaires
   * Configure Source of funding
   * Configure Complaint management ?
 * Publish a program [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FActivity%2520Diagrams%2FPublish%2520a%2520program%2520activity.drawio)]
