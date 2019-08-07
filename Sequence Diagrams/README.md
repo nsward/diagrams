@@ -13,7 +13,7 @@ The _view_ links should provide a visual, read-only version to view in a browser
 
 ## How to create a Sequence Diagram?
 
-##Step 1: Open draw.io
+## Step 1: Open draw.io
 To use draw.io with GitHub, go to the following link: https://www.draw.io/?mode=github
 
 You can either create a new diagram, or open an existing diagram. For this example, we’ll create a new diagram.
@@ -22,14 +22,16 @@ Create new draw.io diagram using GitHub
 
  
 
-##Step 2: Create a diagram
+## Step 2: Create a diagram
+
 Select a diagram template, enter a filename for your diagram, and click Create. For this example we will create a blank diagram.
 
 draw.io and GitHub - Create new blank diagram
 
  
 
-##Step 3: Authorize draw.io to use GitHub
+## Step 3: Authorize draw.io to use GitHub
+
 You need to authorize draw.io to use your GitHub account. Click Authorize, then log into GitHub.
 
 Authorize draw.io to use GitHub
@@ -40,5 +42,6 @@ Sign in to GitHub to authorize draw.io
 
  
 
-##Step 4: Choose a repository
+## Step 4: Choose a repository
+
 Choose a folder (your repository), and then click OK to create your new blank diagram, saved in your GitHub repository.
