@@ -12,6 +12,7 @@ This repository contains different kinds of diagrams to document the ongoing des
   An overview of all components on the 121-platform.
 
 - [Sequence Diagrams](./Sequence%20Diagrams/#readme)
+  Used to illustrate complex scenarios and interractions between different system components.
 
 - [Wireframes](./Wireframes/#readme)  
   Designs for the different interfaces.
