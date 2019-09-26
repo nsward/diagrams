@@ -1,0 +1,22 @@
+@startuml
+
+title Voucher Economy Under the Hood
+
+participant "HO Portal" as HOP
+participant "PA APP" as PAP
+participant "Voucher Backend" as VBE
+participant "Voucher Smart-Contract" as VSC
+participant "Disberse Funding Backend" as DBE
+
+HOP -> DBE: GET /funding { account_no, since_timestamp }
+DBE --> HOP: Funds redeemed from Disberse platform (to FSP)
+HOP -> VBE: POST /issue { [{ userDID, amount }] }
+VBE -> VSC: signed_ethereum_msg: mint(userAddress, amount)
+PAP -> VBE: GET /balance { userDID }
+VBE -> VSC: balances(userAddress)
+VSC --> VBE: user balance
+VBE --> PAP: user balance
+PAP -> VBE: POST /redeem { userDID, signed_ethereum_msg: redeem(amount) }
+VBE -> VSC: signed_ethereum_msg: redeem(amount)
+
+@enduml
