@@ -11,7 +11,7 @@ There are two (potentially) separate blockchains within the system shown in the 
 The Voucher Economy also needs access to an EVM-compatible (Ethereum Virtual Machine) blockchain, but the structure of that blockchain requires more research and consideration. It's feasible that the Voucher smart-contracts could leverage the existing validator set and network properties from the Disberse blockchain. It also may be preferred to run a separate network validated by a constant set of entities (i.e. permanent members of the 121 project). A third option would be to have the organizations that are currently using the 121 code become the validators (i.e. everyone who runs an instance of 121 also runs a validator node).
 
 #### Communicating with the blockchain
-This depends slightly on the structure of the network and whether or not the caller is running a validator node. But, in either case calls are made using JSON-RPC, specifically `eth_sendRawTransaction` for sending signed state-changing transactions and `eth_call` for querying data from a single node. More info on the JSON-RPC API can be found [here]().
+This depends slightly on the structure of the network and whether or not the caller is running a validator node. But, in either case calls are made using JSON-RPC, specifically `eth_sendRawTransaction` for sending signed state-changing transactions and `eth_call` for querying data from a single node. More info on the JSON-RPC API can be found [here](https://github.com/ethereum/wiki/wiki/JSON-RPC).
 
 #### Funding Service Smart-Contracts
 The funding service talks to the larger ecosystem of Disberse smart-contracts, but there are two relevant contracts to discuss.
