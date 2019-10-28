@@ -1,0 +1,48 @@
+@startuml
+
+title Voucher Economy
+
+participant "510 Algorithm" as ALG
+participant "HO Portal" as HOP
+participant "PA APP" as PAP
+
+box "Funding Service" #white
+    participant "Funding Backend" as FBE
+    participant "Disberse Smart-Contracts" as DSC
+end box
+
+box "Voucher Service" #white
+    participant "Voucher Backend" as VBE
+    participant "Voucher Smart-Contract" as VSC
+end box
+participant "FSP" as FSP
+
+PAP -> PAP: generate\nEth wallet
+PAP -> HOP: DID and Eth address
+
+HOP -> FBE: GET /funding { //account_no//, //since_timestamp// }
+FBE -> DSC: eth_getLogs { //Burn// }
+DSC --> FBE: `Burn` events
+FBE -> DSC: eth_getLogs { //LogExchange// }
+DSC --> FBE: `LogExchange` events
+FBE --> HOP: Funds redeemed from Disberse platform (to FSP)
+
+HOP -> ALG: run algo { [ //userDID// ], //available_funds// }
+ALG --> HOP: { [{ //userDID//, //amount// }] }
+
+HOP -> VBE: POST /issue { [{ //userAddress//, //amount// }] }
+VBE -> VBE: sign: //mint(userAddress, amount)//
+VBE -> VSC: eth_sendRawTransaction { //signed_mint_msg// }
+
+PAP -> VBE: GET /balance { //userAddress// }
+VBE -> VSC: eth_call { //balances(userAddress)// }
+VSC --> VBE: user balance
+VBE --> PAP: user balance
+
+PAP -> PAP: sign: //redeem(amount)//
+PAP -> VBE: POST /redeem { //userDID//, //signed_redeem_msg// }
+VBE -> VSC: eth_sendRawTransaction { //signed_redeem_msg// }
+
+VBE -> FSP: distribute funds (still unclear)
+
+@enduml
