@@ -9,6 +9,8 @@ Sequence Diagrams
 
 * Sovrin Sequence [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FSequence%2520Diagrams%2FSovrin%2520Sequence.drawio)]
 
+* Wallet backup and restore Sequence [[view](https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FSequence%2520Diagrams%2FWallet%2520Backup%2520and%2520Restore.drawio)]
+
 The _view_ links should provide a visual, read-only version to view in a browser. The format is:
 
     https://www.draw.io/?lightbox=1&layers=1#Uhttps%3A%2F%2Fgithub.com%2Fglobal-121%2Fdiagrams%2Fraw%2Fmaster%2FSequence%2520Diagrams%2F<URL-encoded-filename-of-diagram>
