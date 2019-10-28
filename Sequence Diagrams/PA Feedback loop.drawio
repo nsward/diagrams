@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-28T00:58:28.543Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="6fRPxCVpstpk8RaNyRvr" version="12.1.7" type="github" pages="1">
+<mxfile modified="2019-10-28T01:01:24.658Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="Z_UglYbg9PbNAXUJhXqJ" version="12.1.7" type="github" pages="1">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="2107" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -394,7 +394,7 @@
           <mxGeometry x="-110" y="405" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="xaEXVbpPQqgU4EdOG0RL-158" value="Notify PA" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="494" width="70" height="30" as="geometry"/>
+          <mxGeometry x="-43" y="539" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="xaEXVbpPQqgU4EdOG0RL-159" value="Assign tickets to staff" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="958" y="292" width="120" height="30" as="geometry"/>
@@ -414,7 +414,7 @@
         <mxCell id="xaEXVbpPQqgU4EdOG0RL-167" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
           <mxGeometry x="880" y="660" width="10" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="xaEXVbpPQqgU4EdOG0RL-169" value="Record rating" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="xaEXVbpPQqgU4EdOG0RL-169" value="Record rating &amp; close ticket" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="938.5" y="705" width="135" height="30" as="geometry"/>
         </mxCell>
       </root>
