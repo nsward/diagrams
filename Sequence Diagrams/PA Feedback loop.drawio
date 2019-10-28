@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-28T00:19:55.826Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="7aItX39_C5vayKejALFV" version="12.1.7" type="github" pages="1">
+<mxfile modified="2019-10-28T00:25:56.596Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="NzXIGyJk9DEyaaWvIQPt" version="12.1.7" type="github" pages="1">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="2107" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -174,8 +174,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4HXD_U9j3b60p4fibFge-121" value="Issue credentials" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none;whiteSpace=wrap;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="630" y="410" width="87.5" height="30" as="geometry"/>
+        <mxCell id="4HXD_U9j3b60p4fibFge-121" value="prioritize tickets" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none;whiteSpace=wrap;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="198" width="87.5" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="4HXD_U9j3b60p4fibFge-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=15;" parent="1" source="49" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -308,6 +308,14 @@
         </mxCell>
         <mxCell id="xaEXVbpPQqgU4EdOG0RL-105" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
           <mxGeometry x="1017.5" y="320" width="10" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="xaEXVbpPQqgU4EdOG0RL-110" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startFill=0;endArrow=block;endFill=1;fontSize=16;" edge="1" parent="1" source="xaEXVbpPQqgU4EdOG0RL-106" target="4HXD_U9j3b60p4fibFge-112">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xaEXVbpPQqgU4EdOG0RL-111" value="Pull tickets" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=11;rounded=1;dashed=1;strokeColor=#000000;endFill=1;endArrow=block;startFill=0;startArrow=none;" vertex="1" connectable="0" parent="xaEXVbpPQqgU4EdOG0RL-110">
+          <mxGeometry x="0.2651" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xaEXVbpPQqgU4EdOG0RL-106" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
           <mxGeometry x="1017.5" y="148" width="10" height="80" as="geometry"/>
