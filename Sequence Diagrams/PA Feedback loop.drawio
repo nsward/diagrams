@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-28T00:48:56.884Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="BJ-CIzVFcHjmG3WnD2s0" version="12.1.7" type="github" pages="1">
+<mxfile modified="2019-10-28T00:49:34.310Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="7ZtJg9nOHATRspuywsxI" version="12.1.7" type="github" pages="1">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="2107" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -270,11 +270,6 @@
         <mxCell id="xaEXVbpPQqgU4EdOG0RL-119" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;startFill=0;endArrow=block;endFill=1;fontSize=11;" edge="1" parent="1" source="xaEXVbpPQqgU4EdOG0RL-96" target="xaEXVbpPQqgU4EdOG0RL-105">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xaEXVbpPQqgU4EdOG0RL-120" value="Open a ticket" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=11;" vertex="1" connectable="0" parent="xaEXVbpPQqgU4EdOG0RL-119">
-          <mxGeometry x="-0.8443" y="1" relative="1" as="geometry">
-            <mxPoint as="offset"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xaEXVbpPQqgU4EdOG0RL-96" value="" style="fillColor=#CC4125;strokeColor=#660000" vertex="1" parent="1">
           <mxGeometry x="460" y="150" width="10" height="280" as="geometry"/>
         </mxCell>
@@ -367,6 +362,9 @@
         </mxCell>
         <mxCell id="xaEXVbpPQqgU4EdOG0RL-148" value="Close ticket" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="487" y="517" width="87.5" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="xaEXVbpPQqgU4EdOG0RL-150" value="Open a ticket" style="rounded=1;fontStyle=1;fillColor=#FFD966;strokeColor=none;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="480" y="366" width="87.5" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
