@@ -1,6 +1,6 @@
 # Voucher Economy Sequence Diagram
 
-![diagram](./voucher_economy_puml.jpg)
+![diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/nsward/diagrams/develop/Sequence%20Diagrams/Voucher%20Economy/voucher-economy.puml)
 
 ## Additional Notes
 
